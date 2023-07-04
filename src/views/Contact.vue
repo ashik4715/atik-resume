@@ -18,7 +18,7 @@
       >
         <div class="mb-4 items-center hover:opacity-75">
           <a
-            href="https://www.facebook.com/dragon.slayer1010"
+            href="https://www.facebook.com/atikurrahman.rintu"
             target="_blank"
             rel="noopener noreferrer"
             class="text-slate-300 hover:text-gray-500"
@@ -38,7 +38,7 @@
         </div>
         <div class="mb-4 items-center hover:opacity-75">
           <a
-            href="https://www.linkedin.com/in/mohammed-aydid-hasan/"
+            href="https://www.linkedin.com/in/md-atikur-rahman-54047a95/"
             target="_blank"
             rel="noopener noreferrer"
             class="text-slate-300 hover:text-gray-500"
@@ -60,7 +60,9 @@
           class="mb-4 h-10 w-10 items-center rounded-full bg-inherit hover:opacity-75"
         >
           <a
-            href="https://github.com/MohammedAydid"
+            href="https://github.com/ashik4715"
+            target="_blank"
+            rel="noopener noreferrer"
             class="text-slate-300 hover:text-gray-500"
           >
             <span class="sr-only">GitHub</span>
@@ -88,19 +90,19 @@ export default {
   name: "Contact",
   setup() {
     useHead({
-      title: "Contact | Aydid Hasan",
+      title: "Contact | Atikur Rahman",
       meta: [
         {
           name: "title",
-          content: "Contact | Aydid Hasan",
+          content: "Contact | Atikur Rahman",
         },
         {
           name: "description",
-          content: "Contact Page of Aydid Hasan's Portfolio.",
+          content: "Contact Page of Atikur Rahman's Portfolio.",
         },
         {
           property: "og:description",
-          content: "Contact Page of Aydid Hasan's Portfolio.",
+          content: "Contact Page of Atikur Rahman's Portfolio.",
         },
         { property: "og:image", content: `summary_large_image` },
         { name: "twitter:card", content: `summary_large_image` },

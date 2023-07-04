@@ -1,7 +1,7 @@
 <template lang="">
-  <div class="md:container p-10 m-10 justify-evenly text-white" data-aos="fade">
-    <h3 class="p-5 m-1 text-center no-underline">Privacy Policy</h3>
-    <div class="mt-5 justify-items-center">
+  <div class="md:container p-10 m-10 text-justify text-white" data-aos="fade">
+    <h3 class="pt-5 m-1 text-center no-underline">Privacy Policy</h3>
+    <div class="mt-5">
       <p><strong>1. Protection of your information</strong></p>
       <div class="mt-4">
         <p>
@@ -18,21 +18,21 @@
         <p>
           <strong>2.1</strong> While you use our websites, your visits to
           individual pages will be tracked and recorded in web server log files
-          (“Log Data”). Log Data may be used by International Medical
-          Journal&nbsp;for statistical purposes, to recognize patterns of usage
-          of the websites, and to improve the structure and content
-          presentation. The usage information we collect (using&nbsp;HTTP
-          Cookies) includes referring URLs, browser and device characteristics,
-          IP address, operating system, as well as dates and times of website
-          visits.
+          (“Log Data”). Log Data may be used by MD ATIKUR RAHMAN&nbsp;for
+          statistical purposes, to recognize patterns of usage of the websites,
+          and to improve the structure and content presentation. The usage
+          information we collect (using&nbsp;HTTP Cookies) includes referring
+          URLs, browser and device characteristics, IP address, operating
+          system, as well as dates and times of website visits.
         </p>
 
         <p>
-          <strong>2.2 </strong>Via the website, International Medical
-          Journal&nbsp;may offer via its website third party services, such as
-          article recommendations, social login, social sharing, and banners to
-          third party sites. The information which is collected by
-          <a class="font-bold underline decoration-pink-500">Aydidhasan.com</a
+          <strong>2.2 </strong>Via the website, MD ATIKUR RAHMAN&nbsp;may offer
+          via its website third party services, such as article recommendations,
+          social login, social sharing, and banners to third party sites. The
+          information which is collected by
+          <a class="font-bold underline text-cyan-300 hover:text-yellow-300"
+            >atikurrahman.com</a
           >&nbsp;when you access third party services is processed under this
           Privacy Policy, while information collected by third-party operators
           themselves will be governed by their own privacy policies.
@@ -66,24 +66,27 @@
           position within your institution or organization, and your research
           interests. Some of this information is required to properly set up the
           user account for you to use all of
-          <a class="font-bold underline decoration-pink-500">Aydidhasan.com</a
+          <a class="font-bold underline text-cyan-300 hover:text-yellow-300"
+            >atikurrahman.com</a
           >&nbsp;services.<br />
           <br />
-          <strong>3.2</strong>&nbsp;International Medical Journal&nbsp;may use
-          this information to fulfill our contract with you (e.g. the
-          publication of your article). Furthermore,
-          <a class="font-bold underline decoration-pink-500">Aydidhasan.com</a
+          <strong>3.2</strong>&nbsp;MD ATIKUR RAHMAN&nbsp;may use this
+          information to fulfill our contract with you (e.g. the publication of
+          your article). Furthermore,
+          <a class="font-bold underline text-cyan-300 hover:text-yellow-300"
+            >atikurrahman.com</a
           >&nbsp;may also use this information internally, e.g., to evaluate and
           improve our business, respond to any questions, requests or comments
           you make, for targeted marketing purposes, or to identify and prevent
           fraud, claims or other liabilities.<br />
           <br />
-          <strong>3.3</strong>&nbsp;International Medical Journal&nbsp;may
-          contact you by e-mail to draw your attention to content that might be
-          of interest to you (e.g. new services, products or publications) and
-          for other advertising. If the personal information was provided to us
-          by a third party,
-          <a class="font-bold underline decoration-pink-500">Aydidhasan.com</a
+          <strong>3.3</strong>&nbsp;MD ATIKUR RAHMAN&nbsp;may contact you by
+          e-mail to draw your attention to content that might be of interest to
+          you (e.g. new services, products or publications) and for other
+          advertising. If the personal information was provided to us by a third
+          party,
+          <a class="font-bold underline text-cyan-300 hover:text-yellow-300"
+            >atikurrahman.com</a
           >&nbsp;may still use this information in the same manner as described
           above. You will have the chance to opt-out of receiving such e-mails
           by unsubscribing.
@@ -96,12 +99,14 @@
       <div class="mt-4">
         <p></p>
         <p>
-          International Medical Journal will never share your personal
-          information with anyone nor with any third parties. Anyone can be
-          subscribed to us and will get further information and announcement
-          through the mail of
-          <a class="font-bold underline decoration-pink-500">Aydidhasan.com</a>.
-          <a class="font-bold underline decoration-pink-500">Aydidhasan.com</a
+          MD ATIKUR RAHMAN will never share your personal information with
+          anyone nor with any third parties. Anyone can be subscribed to us and
+          will get further information and announcement through the mail of
+          <a class="font-bold underline text-cyan-300 hover:text-yellow-300"
+            >atikurrahman.com</a
+          >.
+          <a class="font-bold underline text-cyan-300 hover:text-yellow-300"
+            >atikurrahman.com</a
           >&nbsp;takes steps to ensure your personal information is continued to
           be protected wherever it is stored and/or processed.
         </p>

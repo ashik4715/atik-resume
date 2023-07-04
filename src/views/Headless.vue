@@ -3,7 +3,7 @@
     <header class="absolute inset-x-0 top-0 z-50 w-full">
       <nav
         :class="{ scrolled: !view.atTopOfPage }"
-        class="fixed flex w-full items-center justify-between bg-gray-900 flex-wrap m-auto top-0 animated shadow-2xl shadow-blue-800/20 p-8 lg:px-8"
+        class="fixed flex w-full items-center justify-between bg-gray-800 flex-wrap m-auto top-0 animated shadow-2xl shadow-cyan-500/20 p-7 lg:px-7"
         aria-label="Global"
       >
         <div class="flex lg:flex-1">
@@ -14,7 +14,7 @@
         <div class="flex lg:hidden">
           <button
             type="button"
-            class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-slate-800 dark:text-white hover:text-emerald-400"
+            class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-cyan-600 dark:text-white hover:text-emerald-400"
             @click="mobileMenuOpen = true"
           >
             <span class="sr-only">Open main menu</span>
@@ -57,7 +57,7 @@
       >
         <div class="fixed inset-0 z-50" />
         <DialogPanel
-          class="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-gray-900 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10"
+          class="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-gray-800 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10"
         >
           <div class="flex items-center justify-between">
             <a href="/" class="-m-1.5 p-1.5">
@@ -78,42 +78,50 @@
                 <router-link
                   class="-mx-3 block rounded-lg py-2 px-3 text-lg font-semibold leading-7 text-white hover:bg-slate-400"
                   to="/"
+                  @click="mobileMenuOpen = false"
                   >Home</router-link
                 >
                 <router-link
                   class="-mx-3 block rounded-lg py-2 px-3 text-lg font-semibold leading-7 text-white hover:bg-slate-400"
                   to="/about"
+                  @click="mobileMenuOpen = false"
                   >About Me</router-link
                 >
                 <router-link
                   class="-mx-3 block rounded-lg py-2 px-3 text-lg font-semibold leading-7 text-white hover:bg-slate-400"
                   to="/contact"
+                  @click="mobileMenuOpen = false"
                   >Contact</router-link
                 >
                 <router-link
                   class="-mx-3 block rounded-lg py-2 px-3 text-lg font-semibold leading-7 text-white hover:bg-slate-400"
                   to="/new-projects"
+                  @click="mobileMenuOpen = false"
                   >Projects</router-link
                 >
                 <router-link
                   class="-mx-3 block rounded-lg py-2 px-3 text-lg font-semibold leading-7 text-white hover:bg-slate-400"
                   to="/privacy-policy"
+                  @click="mobileMenuOpen = false"
                   >Privacy-policy</router-link
                 >
                 <router-link
                   to="/Terms-conditions"
                   class="-mx-3 block rounded-lg py-2 px-3 text-lg font-semibold leading-7 text-white hover:bg-slate-400"
+                  @click="mobileMenuOpen = false"
                   >Terms &amp; Conditions Agreement</router-link
                 >
                 <router-link
                   to="/FE-tools"
                   class="-mx-3 block rounded-lg py-2 px-3 text-lg font-semibold leading-7 text-white hover:bg-slate-400"
+                  @click="mobileMenuOpen = false"
                   >Fire Tools</router-link
                 >
               </div>
               <div class="py-6">
                 <a
                   href="/"
+                  @click="mobileMenuOpen = false"
                   class="-mx-3 block rounded-lg py-2.5 px-3 text-lg font-semibold leading-7 text-white hover:bg-slate-400"
                   >Log in</a
                 >
@@ -132,7 +140,7 @@
     <div v-else><router-view></router-view></div>
   </div>
   <!-- footer -->
-  <footer class="py-6 px-6 flex justify-between bg-gray-900">
+  <footer class="py-6 px-6 flex justify-between bg-gray-800">
     <div
       class="max-w-screen-xl px-4 py-12 mx-auto space-y-8 overflow-hidden sm:px-6 lg:px-8"
     >
@@ -175,10 +183,10 @@
       </nav>
       <div class="flex justify-center mt-8 space-x-6">
         <a
-          href="https://www.facebook.com/dragon.slayer1010"
+          href="https://www.facebook.com/atikurrahman.rintu"
           target="_blank"
           rel="noopener noreferrer"
-          class="text-gray-400 hover:text-gray-500"
+          class="text-gray-400 hover:text-lime-500"
         >
           <span class="sr-only">Facebook</span>
           <svg
@@ -195,10 +203,10 @@
           </svg>
         </a>
         <a
-          href="https://github.com/MohammedAydid"
+          href="https://github.com/ashik4715"
           target="_blank"
           rel="noopener noreferrer"
-          class="text-gray-400 hover:text-gray-500"
+          class="text-gray-400 hover:text-lime-500"
         >
           <span class="sr-only">GitHub</span>
           <svg
@@ -214,27 +222,34 @@
             ></path>
           </svg>
         </a>
-        <a href="#" class="text-gray-400 hover:text-gray-500">
-          <span class="sr-only">Dribbble</span>
+        <a
+          href="https://www.linkedin.com/in/md-atikur-rahman-54047a95/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="text-gray-400 hover:text-lime-500"
+        >
+          <span class="sr-only">linkedin</span>
           <svg
+            xmlns="http://www.w3.org/2000/svg"
             class="w-6 h-6"
             aria-hidden="true"
             fill="currentColor"
             viewBox="0 0 24 24"
           >
             <path
-              fill-rule="evenodd"
-              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10c5.51 0 10-4.48 10-10S17.51 2 12 2zm6.605 4.61a8.502 8.502 0 011.93 5.314c-.281-.054-3.101-.629-5.943-.271-.065-.141-.12-.293-.184-.445a25.416 25.416 0 00-.564-1.236c3.145-1.28 4.577-3.124 4.761-3.362zM12 3.475c2.17 0 4.154.813 5.662 2.148-.152.216-1.443 1.941-4.48 3.08-1.399-2.57-2.95-4.675-3.189-5A8.687 8.687 0 0112 3.475zm-3.633.803a53.896 53.896 0 013.167 4.935c-3.992 1.063-7.517 1.04-7.896 1.04a8.581 8.581 0 014.729-5.975zM3.453 12.01v-.26c.37.01 4.512.065 8.775-1.215.25.477.477.965.694 1.453-.109.033-.228.065-.336.098-4.404 1.42-6.747 5.303-6.942 5.629a8.522 8.522 0 01-2.19-5.705zM12 20.547a8.482 8.482 0 01-5.239-1.8c.152-.315 1.888-3.656 6.703-5.337.022-.01.033-.01.054-.022a35.318 35.318 0 011.823 6.475 8.4 8.4 0 01-3.341.684zm4.761-1.465c-.086-.52-.542-3.015-1.659-6.084 2.679-.423 5.022.271 5.314.369a8.468 8.468 0 01-3.655 5.715z"
-              clip-rule="evenodd"
-            ></path>
+              d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 8c0 .557-.447 1.008-1 1.008s-1-.45-1-1.008c0-.557.447-1.008 1-1.008s1 .452 1 1.008zm0 2h-2v6h2v-6zm3 0h-2v6h2v-2.861c0-1.722 2.002-1.881 2.002 0v2.861h1.998v-3.359c0-3.284-3.128-3.164-4-1.548v-1.093z"
+            />
           </svg>
         </a>
       </div>
       <p class="mt-8 text-lg leading-6 text-center text-gray-400">
         © 2023
-        <router-link to="/" class="text-gray-400 hover:text-purple-500"
-          >aydidhasan.com</router-link
-        >. All rights reserved.
+        <a
+          href="https://atik.vercel.app"
+          class="text-yellow-300 hover:text-lime-300"
+          >atikurrahman.com</a
+        >
+        All rights reserved.
       </p>
     </div>
   </footer>

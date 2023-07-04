@@ -1,18 +1,18 @@
 <template lang="">
-  <div class="md:container p-10 m-10 justify-evenly text-white" data-aos="fade">
-    <h3 class="p-5 m-1 text-center no-underline">
+  <div class="md:container p-10 m-10 text-justify text-white" data-aos="fade">
+    <h3 class="pt-5 m-1 text-center no-underline">
       Terms &amp; Conditions Agreement
     </h3>
     <div class="mt-5">
       <p class="justify-items-center">
         Welcome to
-        <a class="font-bold underline decoration-rose-500">aydidhasan.com</a>
+        <a class="font-bold underline decoration-rose-500">atikurrahman.com</a>
         (the "Website"). By accessing or using the Website, you agree to be
         bound by the following terms and conditions (the "Agreement"). If you do
         not agree to these terms and conditions, you may not access or use the
         Website.
       </p>
-      <p><strong>1. Website Content</strong></p>
+      <p class="py-2"><strong>1. Website Content</strong></p>
       <div class="mt-4">
         <p>
           The content on the Website is for informational purposes only and
@@ -56,7 +56,9 @@
         <p>
           All content on the Website, including but not limited to text,
           graphics, logos, images, and software, is the property of
-          <a class="font-bold underline decoration-rose-500">aydidhasan</a>
+          <a class="font-bold underline decoration-rose-500"
+            >atikurrahman.com</a
+          >
           or its content suppliers and is protected by copyright, trademark, and
           other intellectual property laws. You may not reproduce, modify, or
           distribute any content on the Website without our prior written
@@ -118,7 +120,7 @@
           Agreement, you agree to be bound by the modified Agreement. If you
           have any questions about this Agreement, please contact us at
           <a class="font-bold underline decoration-rose-500"
-            >admin@aydidhasan.com</a
+            >admin@atikurrahman.com</a
           >. By accessing or using the Website, you agree to be bound by this
           Agreement. If you do not agree to this Agreement, do not access or use
           the Website.
@@ -133,19 +135,19 @@ export default {
   name: "Terms-conditions",
   setup() {
     useHead({
-      title: "Terms & Conditions Page",
+      title: "Terms & Conditions Page | Atikur Hasan",
       meta: [
         {
           name: "title",
-          content: "Terms & Conditions Page | Aydid Hasan",
+          content: "Terms & Conditions Page | Atikur Hasan",
         },
         {
           name: "description",
-          content: "My Terms & Conditions Page.",
+          content: "Terms & Conditions Page | Atikur Hasan",
         },
         {
           property: "og:description",
-          content: "My Terms & Conditions Page.",
+          content: "Terms & Conditions Page | Atikur Hasan",
         },
         { property: "og:image", content: `summary_large_image` },
         { name: "twitter:card", content: `summary_large_image` },
