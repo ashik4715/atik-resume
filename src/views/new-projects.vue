@@ -70,19 +70,19 @@ export default {
   },
   setup() {
     useHead({
-      title: "Projects | Aydid Hasan",
+      title: "Projects | Atikur Rahman",
       meta: [
         {
           name: "title",
-          content: "Projects | Aydid Hasan",
+          content: "Projects | Atikur Rahman",
         },
         {
           name: "description",
-          content: "Projects Page of Aydid Hasan's Portfolio.",
+          content: "Projects Page of Atikur Rahman's Portfolio.",
         },
         {
           property: "og:description",
-          content: "Projects Page of Aydid Hasan's Portfolio.",
+          content: "Projects Page of Atikur Rahman's Portfolio.",
         },
         { property: "og:image", content: `summary_large_image` },
         { name: "twitter:card", content: `summary_large_image` },

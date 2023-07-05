@@ -29,7 +29,7 @@ const routes = [
   {
     path: "/new-projects",
     name: "new-projects",
-    component: () => import("@views/projects.vue"),
+    component: () => import("@views/Projects.vue"),
   },
   {
     path: "/single-project/:id",

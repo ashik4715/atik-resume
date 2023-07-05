@@ -247,7 +247,7 @@
       <p class="mt-8 text-lg leading-6 text-center text-gray-400">
         © 2023
         <a
-          href="https://atik.vercel.app"
+          href="https://atikur.vercel.app"
           class="text-yellow-300 hover:text-lime-300"
           >atikurrahman.com</a
         >

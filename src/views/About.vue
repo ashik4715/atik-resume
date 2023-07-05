@@ -64,38 +64,38 @@
           <p
             class="my-2 text-justify font-medium md:text-base leading-snug text-gray-50 text-opacity-100"
           >
-            <i><b>Activities performed:</b></i
-            >Overall, in-charge of the entire project preparation activity
-            covering route selection, topographical surveys, traffic surveys,
-            geometric designs, pavement designs, and land acquisition plans etc.
-            Lead, guide, supervise, co-ordinate and monitor the work of other
-            members of the consultant’s team. I have provide service in
-            monitoring, controlling and confirmation of the contractor's works
-            at site in accordance with design specifications and contract
-            Documents. I have involved in monitoring and implementation on the
-            quality of materials and workmanships installed, operated and
-            maintained. In the field of Project Management using latest Project
-            Management Techniques, Design Review, Developing and Maintaining
-            Project Information System, Project Monitoring, Planning &
-            Scheduling and contract Technical Specifications, Evaluation of
-            Extra Item of Works and recommendation for variation Orders, Site
-            Instructions, processing Contractual Notices. Liaising with LGED,
-            Project Management and contractor of resolution of project issues
-            that concerns Authorities when required. Prepared monthly progress
-            Report, quarterly progress report, confirming Bar Bending Schedules,
-            CPM etc. Attending project meeting with LGED and contractor
-            weekly/monthly; checking of calculation sheet of design and method
-            of statement for all activities of site execution work. Experience
-            in how to maintain awareness of contracts financial status. Checking
-            the planning of design, detail foundation & structural design,
-            checking drawing of Arch Bridges, Pre-stressed girder bridges, RCC
-            girder bridges, and Variable depth of girder bridges. Also, analyzed
-            the detailed design using software such as, MIDAS Civil, STAAD Pro,
-            etc. I am using modern methods employed in construction and
-            management developing quality Assurances System (QAS), monitoring
-            the QAS. I have possessed excellent decision-making and leadership
-            capability and has successfully completed various projects leading
-            personnel at all levels.
+            <i><b>Activities performed: </b></i>Overall, in-charge of the entire
+            project preparation activity covering route selection, topographical
+            surveys, traffic surveys, geometric designs, pavement designs, and
+            land acquisition plans etc. Lead, guide, supervise, co-ordinate and
+            monitor the work of other members of the consultant’s team. I have
+            provide service in monitoring, controlling and confirmation of the
+            contractor's works at site in accordance with design specifications
+            and contract Documents. I have involved in monitoring and
+            implementation on the quality of materials and workmanships
+            installed, operated and maintained. In the field of Project
+            Management using latest Project Management Techniques, Design
+            Review, Developing and Maintaining Project Information System,
+            Project Monitoring, Planning & Scheduling and contract Technical
+            Specifications, Evaluation of Extra Item of Works and recommendation
+            for variation Orders, Site Instructions, processing Contractual
+            Notices. Liaising with LGED, Project Management and contractor of
+            resolution of project issues that concerns Authorities when
+            required. Prepared monthly progress Report, quarterly progress
+            report, confirming Bar Bending Schedules, CPM etc. Attending project
+            meeting with LGED and contractor weekly/monthly; checking of
+            calculation sheet of design and method of statement for all
+            activities of site execution work. Experience in how to maintain
+            awareness of contracts financial status. Checking the planning of
+            design, detail foundation & structural design, checking drawing of
+            Arch Bridges, Pre-stressed girder bridges, RCC girder bridges, and
+            Variable depth of girder bridges. Also, analyzed the detailed design
+            using software such as, MIDAS Civil, STAAD Pro, etc. I am using
+            modern methods employed in construction and management developing
+            quality Assurances System (QAS), monitoring the QAS. I have
+            possessed excellent decision-making and leadership capability and
+            has successfully completed various projects leading personnel at all
+            levels.
           </p>
           <p class="my-1 font-semibold text-lime-300">
             Skills: Design · Infrastructure · Microsoft Office · STAAD-Pro ·
