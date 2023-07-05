@@ -15,28 +15,34 @@
           type="button"
           class="btn h-full w-full"
           data-bs-toggle="modal"
-          data-bs-target="#staticBackdrop"
+          data-bs-target="#exampleModalHill"
         >
           <img
-            src="https://images.unsplash.com/photo-1432457990754-c8b5f21448de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
-            alt="Photo by Claudio Schwarz on Unsplash"
+            src="../assets/img/projects/hill-kabul.webp"
+            alt="hill"
             class="inset-0 h-full w-full object-cover object-center rounded opacity-100 hover:opacity-100 transition duration-500 hover:scale-90"
           />
         </button>
         <div
           class="modal fade"
-          id="staticBackdrop"
+          id="exampleModalHill"
           data-bs-backdrop="static"
           data-bs-keyboard="false"
           tabindex="-1"
-          aria-labelledby="staticBackdropLabel"
+          aria-labelledby="exampleModalHillLabel"
           aria-hidden="true"
         >
           <div class="modal-dialog modal-lg">
             <div class="modal-content">
               <div class="modal-header text-slate-800">
-                <h5 class="modal-title" id="staticBackdropLabel">
-                  <strong>Response Time Index (RTI)</strong>
+                <h5
+                  class="modal-title text-decoration-none"
+                  id="exampleModalHillLabel"
+                >
+                  <strong
+                    >The construction of Zakokhil bridge over the Lakan
+                    River</strong
+                  >
                 </h5>
                 <button
                   type="button"
@@ -48,23 +54,42 @@
               <div class="modal-body text-slate-800">
                 <div class="d-flex">
                   <p class="fs-6">
-                    The thermal sensitivity of a sprinkler measures how quickly
-                    the thermal element operates. Perhaps the most common way of
-                    measuring thermal sensitivity is the response time index
-                    (RTI). Sprinklers are then categorized into fast or standard
-                    response based on their RTI. The RTI is typically determined
-                    by conducting a plunge test in which a sprinkler is placed
-                    (plunged) into a heated laminar airflow within a test oven.
-                    Then, the operating time of the sprinkler, the operating
-                    temperature of the sprinkler’s heat-responsive element, the
-                    air temperature of the test oven, the air velocity of the
-                    test oven, and the sprinkler’s conductivity factor are used
-                    to calculate the RTI. Additional factors impact the response
-                    such as the temperature rating of the sprinkler, sprinkler
-                    position, fire exposure, and radiation. The response time is
-                    expressed as a response time index (RTI), which typically
-                    has values between 35 m ½ s ½ and 250 m ½ s ½ , where a low
-                    value indicates a fast response.
+                    In the KHOST CITY, Cars drive by the crowded area near the
+                    local mosque, close to Zakokhil bridge. Amidst the crowd
+                    stands Sakhi Jan Sarhadi, 70, a retired government official
+                    living in Lakan Kamar village. He is recalling the hardships
+                    the villagers faced before the bridge was built.
+                    <br /><br />
+                    “Before the bridge was built in this village, people had
+                    lots of problems crossing from one side to the other side of
+                    the river, especially patients,” Sakhi Jan Sarhadi says of
+                    Zakokhil bridge over the Lakan River. The bridge, spanning
+                    140 meters, connects Lakan Kamar village to Khost center.
+                    <br /><br />
+                    Sarhadi recounts how some people died during the floods
+                    before the bridge was built. At that time, Lakan Kamar
+                    villagers faced difficult challenges during winter and the
+                    beginning of spring. During the rainy season, crossing from
+                    one side to the other side of the river became a difficult
+                    and dangerous task.
+                    <br /><br />
+                    The bridge, Sarhadi says, has resolved these problems,
+                    including reducing transport costs to Khost city center from
+                    200 afghanis (about $3) to 50 afghanis. “We used to go to
+                    other villages far from ours and pass the river, but after
+                    the bridge construction it costs us only 50 afghanis to
+                    reach Khost center.”
+                    <br /><br />
+                    Nomar Shah, Head of the Public Works Directorate in Khost
+                    Province, reaffirms the difficulties villagers had earlier:
+                    “People had lots of problem reaching their destination,
+                    especially students and patients. They had to spend a lot of
+                    time to reach the center of the province.”
+                    <img
+                      src="../assets/img/projects/hill-kabul.webp"
+                      alt="hill"
+                      class="inset-0 h-90 object-cover object-center rounded opacity-100 hover:opacity-100 transition duration-500 hover:scale-90"
+                    />
                   </p>
                 </div>
               </div>
@@ -89,28 +114,34 @@
           type="button"
           class="btn h-full w-full"
           data-bs-toggle="modal"
-          data-bs-target="#staticBackdrop"
+          data-bs-target="#exampleModalBeza"
         >
           <img
-            src="https://images.unsplash.com/photo-1586921829167-409624a3734a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-            alt="Photo by Claudio Schwarz on Unsplash"
+            src="../assets/img/projects/beza-mirsarai.webp"
+            alt="beza"
             class="inset-0 h-full w-full object-cover object-center rounded opacity-100 hover:opacity-100 transition duration-500 hover:scale-90"
           />
         </button>
         <div
           class="modal fade"
-          id="staticBackdrop"
+          id="exampleModalBeza"
           data-bs-backdrop="static"
           data-bs-keyboard="false"
           tabindex="-1"
-          aria-labelledby="staticBackdropLabel"
+          aria-labelledby="exampleModalBezaLabel"
           aria-hidden="true"
         >
           <div class="modal-dialog modal-lg">
             <div class="modal-content">
               <div class="modal-header text-slate-800">
-                <h5 class="modal-title" id="staticBackdropLabel">
-                  <strong>Response Time Index (RTI)</strong>
+                <h5
+                  class="modal-title text-decoration-none"
+                  id="exampleModalBezaLabel"
+                >
+                  <strong
+                    >Bangladesh Economic Zone Development Project, Mirsarai,
+                    Chittagong.
+                  </strong>
                 </h5>
                 <button
                   type="button"
@@ -122,23 +153,46 @@
               <div class="modal-body text-slate-800">
                 <div class="d-flex">
                   <p class="fs-6">
-                    The thermal sensitivity of a sprinkler measures how quickly
-                    the thermal element operates. Perhaps the most common way of
-                    measuring thermal sensitivity is the response time index
-                    (RTI). Sprinklers are then categorized into fast or standard
-                    response based on their RTI. The RTI is typically determined
-                    by conducting a plunge test in which a sprinkler is placed
-                    (plunged) into a heated laminar airflow within a test oven.
-                    Then, the operating time of the sprinkler, the operating
-                    temperature of the sprinkler’s heat-responsive element, the
-                    air temperature of the test oven, the air velocity of the
-                    test oven, and the sprinkler’s conductivity factor are used
-                    to calculate the RTI. Additional factors impact the response
-                    such as the temperature rating of the sprinkler, sprinkler
-                    position, fire exposure, and radiation. The response time is
-                    expressed as a response time index (RTI), which typically
-                    has values between 35 m ½ s ½ and 250 m ½ s ½ , where a low
-                    value indicates a fast response.
+                    The development of Mirsarai Economic Zone (MEZ) will be
+                    visible by 2018 as work on road construction, power plant
+                    installation and earth-filling are going in a quicker pace.
+                    "The zone will be developed in 30 phases by 2030. We have
+                    already invited tenders for three phases for the development
+                    of about 2,000 acres of land out of a total of 30,000
+                    acres," Bangladesh Economic Zones Authority (BEZA) Executive
+                    Chairman Paban Chowdhury told. He said development work,
+                    like the construction of a four-lane road inside the zone
+                    and 18.5-kilometer long two-lane marine driveway with a
+                    protection embankment is going on inside and near the MEZ.
+                    The zone is along the strategic location of Dhaka-Chittagong
+                    industrial corridor under Chittagong district. MEZ will be
+                    the country's first self-contained economic zone as it will
+                    have park, sea port, residential area, power plant,
+                    hospital, school and university, he added. The executive
+                    chairman said investment proposals worth about US$8 billion
+                    have already been confirmed for the MEZ from home and abroad
+                    in various sectors, including steel, Liquefied Petroleum Gas
+                    (LPG) and shipbuilding. Chowdhury expressed the hope that
+                    MEZ would play a vital role in fulfilling the investment
+                    prospect of the country through establishing a truly
+                    world-class business and industrial center and attracting
+                    the local and foreign investors. "As the zone is linked with
+                    Dhaka-Chittagong industrial corridor, business costs and
+                    cost of living are significantly low than those of the other
+                    competing cities of the world," he added. The BEZA chief
+                    said BEZA is implementing a project of Water Development
+                    Board through China Harbour Engineering Company for
+                    construction of the 18.5 kilometer two-lane marine driveway
+                    with protection embankment from Sonagazi to Sitakunda at a
+                    cost of Taka 1,163 crore. He informed that Rural Power
+                    Company Limited (RPCL) is setting up a 150 Megawatt (MW)
+                    power plant which will have an option to increase up to 1000
+                    MW in future.
+                    <img
+                      src="../assets/img/projects/beza-mirsarai.webp"
+                      alt="beza-mirsarai"
+                      class="inset-0 h-90 object-cover object-center rounded opacity-100 hover:opacity-100 transition duration-500 hover:scale-90"
+                    />
                   </p>
                 </div>
               </div>
@@ -163,28 +217,33 @@
           type="button"
           class="btn h-full w-full"
           data-bs-toggle="modal"
-          data-bs-target="#staticBackdrop"
+          data-bs-target="#exampleModalbamyam"
         >
           <img
-            src="https://images.unsplash.com/photo-1489981424607-45c58daf0581?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-            alt="Photo by Claudio Schwarz on Unsplash"
+            src="../assets/img/projects/bamyan-highway-sheladia.webp"
+            alt="bamyan-highway"
             class="inset-0 h-full w-full object-cover object-center rounded opacity-100 hover:opacity-100 transition duration-500 hover:scale-90"
           />
         </button>
         <div
           class="modal fade"
-          id="staticBackdrop"
+          id="exampleModalbamyam"
           data-bs-backdrop="static"
           data-bs-keyboard="false"
           tabindex="-1"
-          aria-labelledby="staticBackdropLabel"
+          aria-labelledby="exampleModalbamyamLabel"
           aria-hidden="true"
         >
           <div class="modal-dialog modal-lg">
             <div class="modal-content">
               <div class="modal-header text-slate-800">
-                <h5 class="modal-title" id="staticBackdropLabel">
-                  <strong>Response Time Index (RTI)</strong>
+                <h5
+                  class="modal-title text-decoration-none"
+                  id="exampleModalbamyamLabel"
+                >
+                  <strong
+                    >Bamyan National Highway By Sheladia Associates Inc.</strong
+                  >
                 </h5>
                 <button
                   type="button"
@@ -196,23 +255,17 @@
               <div class="modal-body text-slate-800">
                 <div class="d-flex">
                   <p class="fs-6">
-                    The thermal sensitivity of a sprinkler measures how quickly
-                    the thermal element operates. Perhaps the most common way of
-                    measuring thermal sensitivity is the response time index
-                    (RTI). Sprinklers are then categorized into fast or standard
-                    response based on their RTI. The RTI is typically determined
-                    by conducting a plunge test in which a sprinkler is placed
-                    (plunged) into a heated laminar airflow within a test oven.
-                    Then, the operating time of the sprinkler, the operating
-                    temperature of the sprinkler’s heat-responsive element, the
-                    air temperature of the test oven, the air velocity of the
-                    test oven, and the sprinkler’s conductivity factor are used
-                    to calculate the RTI. Additional factors impact the response
-                    such as the temperature rating of the sprinkler, sprinkler
-                    position, fire exposure, and radiation. The response time is
-                    expressed as a response time index (RTI), which typically
-                    has values between 35 m ½ s ½ and 250 m ½ s ½ , where a low
-                    value indicates a fast response.
+                    Representatives of people and residents of Bamyan are
+                    concerning over increasing insecurities along Kabul – Bamyan
+                    highway, saying that Dar-e-Ghorband, connecting Parwan to
+                    Bamyan and Dar-e-Jalriz, connecting Maidan Wardak to Bamyan
+                    are two highways that connect Daikundi, Ghor and Bamyan to
+                    Kabul.
+                    <img
+                      src="../assets/img/projects/bamyan-highway-sheladia.webp"
+                      alt="bamyan"
+                      class="inset-0 h-90 object-cover object-center rounded opacity-100 hover:opacity-100 transition duration-500 hover:scale-90"
+                    />
                   </p>
                 </div>
               </div>
@@ -237,28 +290,31 @@
           type="button"
           class="btn h-full w-full"
           data-bs-toggle="modal"
-          data-bs-target="#staticBackdrop"
+          data-bs-target="#exampleModal7"
         >
           <img
-            src="https://images.unsplash.com/photo-1489981424607-45c58daf0581?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-            alt="Photo by Claudio Schwarz on Unsplash"
+            src="../assets/img/projects/magic-omdurman.webp"
+            alt="magic-omdurman"
             class="inset-0 h-full w-full object-cover object-center rounded opacity-100 hover:opacity-100 transition duration-500 hover:scale-90"
           />
         </button>
         <div
           class="modal fade"
-          id="staticBackdrop"
+          id="exampleModal7"
           data-bs-backdrop="static"
           data-bs-keyboard="false"
           tabindex="-1"
-          aria-labelledby="staticBackdropLabel"
+          aria-labelledby="exampleModal7Label"
           aria-hidden="true"
         >
           <div class="modal-dialog modal-lg">
             <div class="modal-content">
               <div class="modal-header text-slate-800">
-                <h5 class="modal-title" id="staticBackdropLabel">
-                  <strong>Response Time Index (RTI)</strong>
+                <h5
+                  class="modal-title text-decoration-none"
+                  id="exampleModal7Label"
+                >
+                  <strong>The Omdurman Bridge </strong>
                 </h5>
                 <button
                   type="button"
@@ -270,23 +326,30 @@
               <div class="modal-body text-slate-800">
                 <div class="d-flex">
                   <p class="fs-6">
-                    The thermal sensitivity of a sprinkler measures how quickly
-                    the thermal element operates. Perhaps the most common way of
-                    measuring thermal sensitivity is the response time index
-                    (RTI). Sprinklers are then categorized into fast or standard
-                    response based on their RTI. The RTI is typically determined
-                    by conducting a plunge test in which a sprinkler is placed
-                    (plunged) into a heated laminar airflow within a test oven.
-                    Then, the operating time of the sprinkler, the operating
-                    temperature of the sprinkler’s heat-responsive element, the
-                    air temperature of the test oven, the air velocity of the
-                    test oven, and the sprinkler’s conductivity factor are used
-                    to calculate the RTI. Additional factors impact the response
-                    such as the temperature rating of the sprinkler, sprinkler
-                    position, fire exposure, and radiation. The response time is
-                    expressed as a response time index (RTI), which typically
-                    has values between 35 m ½ s ½ and 250 m ½ s ½ , where a low
-                    value indicates a fast response.
+                    The Old Omdurman Bridge ( also redemption Bridge, or Old
+                    White Nile Bridge ) is a steel truss bridge to traffic in
+                    Sudan and the oldest bridge of the conurbation al -
+                    Khartoum. It connects Khartoum on the White Nile to
+                    Omdurman. The shore road on the Blue Nile in Khartoum (
+                    Sharia al - Nil ) is extended to the west and crosses the
+                    bridge to the nearby parliament building on the other side.
+                    The bridge was designed by the London engineering firm Sir
+                    Douglas & Francis Fox and from 1924 to 1926 by the Dorman
+                    Long and Co. Ltd.. built. The working for the engineering
+                    firm construction supervisor was Georges Camille Imbault,
+                    who had worked for the office even at the Victoria Falls
+                    Bridge. It is 613 meters long and is supported by seven
+                    pillars round pairs. Originally it consisted of seven 74,20
+                    m long trusses and a 92.50 m long swing bridge and was
+                    intended for light trains. Later the tracks were converted
+                    into lanes for road and outdoor grown on both sides of the
+                    bridge each another lane. From 2004 to 2006, the bridge was
+                    set by a South African construction company in status.
+                    <img
+                      src="../assets/img/projects/magic-omdurman.webp"
+                      alt="magic-omdurman-pic"
+                      class="inset-0 h-82 object-cover object-center rounded opacity-100 hover:opacity-100 transition duration-500 hover:scale-90"
+                    />
                   </p>
                 </div>
               </div>
@@ -311,28 +374,31 @@
           type="button"
           class="btn h-full w-full"
           data-bs-toggle="modal"
-          data-bs-target="#staticBackdrop"
+          data-bs-target="#exampleModalMetro"
         >
           <img
-            src="https://images.unsplash.com/photo-1586921829167-409624a3734a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-            alt="Photo by Claudio Schwarz on Unsplash"
+            src="../assets/img/projects/metro.webp"
+            alt="metro"
             class="inset-0 h-full w-full object-cover object-center rounded opacity-100 hover:opacity-100 transition duration-500 hover:scale-90"
           />
         </button>
         <div
           class="modal fade"
-          id="staticBackdrop"
+          id="exampleModalMetro"
           data-bs-backdrop="static"
           data-bs-keyboard="false"
           tabindex="-1"
-          aria-labelledby="staticBackdropLabel"
+          aria-labelledby="exampleModalMetroLabel"
           aria-hidden="true"
         >
           <div class="modal-dialog modal-lg">
             <div class="modal-content">
               <div class="modal-header text-slate-800">
-                <h5 class="modal-title" id="staticBackdropLabel">
-                  <strong>Response Time Index (RTI)</strong>
+                <h5
+                  class="modal-title text-decoration-none"
+                  id="exampleModalMetroLabel"
+                >
+                  <strong>Dhaka Metro Rail</strong>
                 </h5>
                 <button
                   type="button"
@@ -344,23 +410,31 @@
               <div class="modal-body text-slate-800">
                 <div class="d-flex">
                   <p class="fs-6">
-                    The thermal sensitivity of a sprinkler measures how quickly
-                    the thermal element operates. Perhaps the most common way of
-                    measuring thermal sensitivity is the response time index
-                    (RTI). Sprinklers are then categorized into fast or standard
-                    response based on their RTI. The RTI is typically determined
-                    by conducting a plunge test in which a sprinkler is placed
-                    (plunged) into a heated laminar airflow within a test oven.
-                    Then, the operating time of the sprinkler, the operating
-                    temperature of the sprinkler’s heat-responsive element, the
-                    air temperature of the test oven, the air velocity of the
-                    test oven, and the sprinkler’s conductivity factor are used
-                    to calculate the RTI. Additional factors impact the response
-                    such as the temperature rating of the sprinkler, sprinkler
-                    position, fire exposure, and radiation. The response time is
-                    expressed as a response time index (RTI), which typically
-                    has values between 35 m ½ s ½ and 250 m ½ s ½ , where a low
-                    value indicates a fast response.
+                    The MRT Line 6 (Bengali: এমআরটি লাইন ৬) is a line on the
+                    Dhaka Metro Rail. Bangladesh's first rapid transit line, it
+                    has been in service since 2022. It is an entirely elevated
+                    line and currently has 9 stations in service between Uttara
+                    North and Agargaon. The line was the result of the proposal
+                    of a mass rapid transit system in Dhaka by the Review
+                    Committee of the Strategic Transport Plan led by Jamilur
+                    Reza Choudhury and the Urban Traffic Formulation Study
+                    prepared by the Japan International Cooperation Agency. Its
+                    construction started in 2016 that was delayed several times
+                    as a result of disagreements about the route, the July 2016
+                    Dhaka attack, and the COVID-19 pandemic. The first phase of
+                    the line was gradually opened during 2022. The second phase
+                    from Agargaon to Motijheel is currently under construction
+                    and expected to open in 2023. It would bring the total
+                    distance to 20 kilometers. An extension to Kamalapur is
+                    expected in 2026. There is a plan to further extend the line
+                    north towards Tongi and Savar Upazila in future. It is the
+                    most expensive mass rapid transit line in terms of
+                    construction cost in Asia.
+                    <img
+                      src="../assets/img/projects/metro.webp"
+                      alt="metro-rail"
+                      class="inset-0 h-90 object-cover object-center rounded opacity-100 hover:opacity-100 transition duration-500 hover:scale-90"
+                    />
                   </p>
                 </div>
               </div>
@@ -386,28 +460,31 @@
           type="button"
           class="btn h-full w-full"
           data-bs-toggle="modal"
-          data-bs-target="#staticBackdrop"
+          data-bs-target="#exampleModal8"
         >
           <img
-            src="https://images.unsplash.com/photo-1534531173927-aeb928d54385?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-            alt="Photo by Claudio Schwarz on Unsplash"
+            src="../assets/img/projects/monga.webp"
+            alt="monga"
             class="inset-0 h-full w-full object-cover object-center rounded opacity-100 hover:opacity-100 transition duration-500 hover:scale-90"
           />
         </button>
         <div
           class="modal fade"
-          id="staticBackdrop"
+          id="exampleModal8"
           data-bs-backdrop="static"
           data-bs-keyboard="false"
           tabindex="-1"
-          aria-labelledby="staticBackdropLabel"
+          aria-labelledby="exampleModal8Label"
           aria-hidden="true"
         >
           <div class="modal-dialog modal-lg">
             <div class="modal-content">
               <div class="modal-header text-slate-800">
-                <h5 class="modal-title" id="staticBackdropLabel">
-                  <strong>Response Time Index (RTI)</strong>
+                <h5
+                  class="modal-title text-decoration-none"
+                  id="exampleModal8Label"
+                >
+                  <strong>Mongga Bridge Reconstruction</strong>
                 </h5>
                 <button
                   type="button"
@@ -418,24 +495,26 @@
               </div>
               <div class="modal-body text-slate-800">
                 <div class="d-flex">
+                  <p class="fs-6 lh-lg">
+                    <b
+                      >Sustainable Transport Infrastructure Improvement
+                      Program:</b
+                    >
+                    Mongga Bridge Reconstruction Initial Environmental
+                    Examination
+                  </p>
                   <p class="fs-6">
-                    The thermal sensitivity of a sprinkler measures how quickly
-                    the thermal element operates. Perhaps the most common way of
-                    measuring thermal sensitivity is the response time index
-                    (RTI). Sprinklers are then categorized into fast or standard
-                    response based on their RTI. The RTI is typically determined
-                    by conducting a plunge test in which a sprinkler is placed
-                    (plunged) into a heated laminar airflow within a test oven.
-                    Then, the operating time of the sprinkler, the operating
-                    temperature of the sprinkler’s heat-responsive element, the
-                    air temperature of the test oven, the air velocity of the
-                    test oven, and the sprinkler’s conductivity factor are used
-                    to calculate the RTI. Additional factors impact the response
-                    such as the temperature rating of the sprinkler, sprinkler
-                    position, fire exposure, and radiation. The response time is
-                    expressed as a response time index (RTI), which typically
-                    has values between 35 m ½ s ½ and 250 m ½ s ½ , where a low
-                    value indicates a fast response.
+                    <img
+                      src="../assets/img/projects/monga.webp"
+                      alt="mongga"
+                      class="inset-0 h-90 object-cover object-center rounded opacity-100 hover:opacity-100 transition duration-500 hover:scale-90"
+                    />
+                    Initial Environmental Examinations (IEE) describe the
+                    environmental condition of a project, including potential
+                    impact, formulation of mitigation measures, and preparation
+                    of institutional requirements for environmental monitoring.
+                    This document dated July 2021 is provided for the ADB
+                    project 46499-002 in Solomon Islands.
                   </p>
                 </div>
               </div>
@@ -499,21 +578,30 @@
               <div class="modal-body text-slate-800">
                 <div class="d-flex">
                   <p class="fs-6">
+                    Hill International (NYSE:HIL), the global leader in managing
+                    construction risk, announced that it has received a contract
+                    from the Afghanistan Ministry of Public Works to provide
+                    project management and supervision consultant services in
+                    connection with a major roads project in Afghanistan. The
+                    four-year contract has an estimated value to Hill of
+                    approximately $37.0 million. <br /><br />The Qaisar-Laman
+                    Ring Road project, funded by the Asian Development Bank,
+                    involves the upgrading of a 233-kilometer (145-mile) section
+                    of the Ring Road between Andkhoy and Herat. Completion of
+                    this project will conclude the various reconstruction works
+                    on the nation's Ring Road and will fill a key gap in the
+                    regional transportation corridor, facilitating north-south
+                    commerce along Afghanistan's western border with Iran,
+                    Turkmenistan, and Uzbekistan. Completion of the Qaisar-Laman
+                    section of the Ring Road will also widen access to markets
+                    and socio-economic opportunities for the inhabitants of the
+                    provinces of Badghis and Faryab, and support increased peace
+                    and order in these remote rural areas.
                     <img
                       src="../assets/img/projects/qaisar-laman-hill.webp"
                       alt="qaisar-laman-hill"
-                      class="inset-0 h-82 object-cover object-center rounded opacity-100 hover:opacity-100 transition duration-500 hover:scale-90"
+                      class="inset-0 h-90 object-cover object-center rounded opacity-100 hover:opacity-100 transition duration-500 hover:scale-90"
                     />
-                    Rehabilitation and Construction of Ring Road from Qaisar (km
-                    343+000) to Laman (km 110+000). Design and construction
-                    oversight of a 233km national highway in Badgis and Faryab
-                    provinces, Afghanistan. Design of Several RCC Bridges of
-                    Span ranging from 120m to 45m; Section-1 (9 bridges),
-                    Section-2 (2 Bridges), Section -3 to 6 (18 Bridges). Design
-                    & review of framing works for 101 culverts in Section-1
-                    (Precast & Cast-in-place). Ongoing design of several
-                    culverts for section-2 to section-6. Stone Masonary
-                    Retaining wall with different heights (3m to 6m).
                   </p>
                 </div>
               </div>
