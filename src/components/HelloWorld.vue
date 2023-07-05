@@ -3,18 +3,18 @@
     <!-- Grid profile section -->
     <div class="grid row-auto hover:row-span-3 grid-cols-6 gap-3 p-6 m-5">
       <div
-        class="col-span-3 text-center relative h-full w-full overflow-hidden rounded-lg hover:opacity-80"
+        class="col-span-3 text-center relative h-full w-full overflow-hidden rounded-lg"
       >
         <div class="grid h-screen place-items-center p-8">
           <h1 class="text-5xl text-gray-200 py-5 no-underline">
-            I am <span class="text-amber-400">Mohammed Tanveer Hasan</span>
+            I am <span class="text-amber-400">Md Atikur Rahman</span>
             <h4 class="text-xl no-underline italic mt-10">
               <span class="text-orange-200">{{ typeValue }}</span>
               <span class="cursor" :class="{ typing: typeStatus }">&nbsp;</span>
             </h4>
             <div class="mt-1">
               <a
-                href="#"
+                href="mailto:atikur755@gmail.com"
                 class="bg-transparent text-lg hover:bg-yellow-300 text-yellow-300 hover:text-slate-800 rounded-full shadow hover:shadow-lg py-2 px-4 border border-yellow-300 hover:border-transparent"
               >
                 Contact
@@ -24,12 +24,12 @@
         </div>
       </div>
       <div
-        class="col-span-3 text-center pt-6 text-gray-400 relative overflow-hidden rounded-lg"
+        class="col-span-3 text-center pt-6 text-gray-400 relative overflow-hidden rounded-lg hover:opacity-90"
       >
         <img
-          class="h-full w-full object-cover object-center"
-          src="../assets/img/profile.png"
-          alt="portfolio-pic2"
+          class="h-full w-full object-scale-down object-center"
+          src="../assets/img/cover-img.webp"
+          alt="portfolio-pic"
         />
       </div>
     </div>
@@ -42,21 +42,20 @@ export default {
   name: "HelloWorld",
   setup() {
     useHead({
-      title: "Tanveer Hasan | Homepage",
+      title: "Atikur Rahman | Homepage",
       meta: [
         {
           name: "title",
-          content: "Tanveer Hasan | Homepage ",
+          content: "Atikur Rahman | Homepage ",
         },
         {
           name: "description",
-          content:
-            "I am Mohammad Tanveer Hasan, this is my personal Portfolio.",
+          content: "I am Md Atikur Rahman, this is my personal Portfolio.",
         },
         {
           property: "og:description",
           content:
-            "I am Mohammad Tanveer Hasan, this is my personal Portfolio.",
+            "I am Mohammad Md Atikur Rahman, this is my personal Portfolio.",
         },
         { property: "og:image", content: `summary_large_image` },
         { name: "twitter:card", content: `summary_large_image` },
@@ -68,10 +67,12 @@ export default {
       typeValue: "",
       typeStatus: false,
       typeArray: [
-        "A passionate fire engineer working towards making a safer tomorrow.",
+        "A passionate Civil Engineer",
+        "Bridge Design Engineer",
+        "Structural Engineer",
       ],
-      typingSpeed: 60,
-      erasingSpeed: 70,
+      typingSpeed: 50,
+      erasingSpeed: 50,
       newTextDelay: 1500,
       typeArrayIndex: 0,
       charIndex: 0,
@@ -117,7 +118,7 @@ export default {
 
 <style scoped>
 .my-backgroundImage {
-  background: url(../assets/img/photo.png) no-repeat 50%;
+  background: url(../assets/img/cover-img.webp) no-repeat 50%;
   height: 1450px;
   max-width: 100%;
   opacity: 0.9;

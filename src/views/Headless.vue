@@ -3,7 +3,7 @@
     <header class="absolute inset-x-0 top-0 z-50 w-full">
       <nav
         :class="{ scrolled: !view.atTopOfPage }"
-        class="fixed flex w-full items-center justify-between bg-gray-800 flex-wrap m-auto top-0 animated shadow-2xl shadow-cyan-500/20 p-7 lg:px-7"
+        class="fixed flex w-full items-center justify-between bg-gray-800 flex-wrap m-auto top-0 animated shadow-2xl shadow-cyan-500/40 p-7 lg:px-7"
         aria-label="Global"
       >
         <div class="flex lg:flex-1">
@@ -140,7 +140,9 @@
     <div v-else><router-view></router-view></div>
   </div>
   <!-- footer -->
-  <footer class="py-6 px-6 flex justify-between bg-gray-800">
+  <footer
+    class="py-6 px-6 flex justify-between bg-gray-800 shadow-2xl shadow-cyan-500"
+  >
     <div
       class="max-w-screen-xl px-4 py-12 mx-auto space-y-8 overflow-hidden sm:px-6 lg:px-8"
     >
